@@ -1,0 +1,49 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: asteria-deployment-fortnox-worker
+spec:
+  replicas: 1
+  template:
+    metadata:
+      name: asteria-pod-fortnox-worker
+      labels:
+        run: asteria-deployment-fortnox-worker
+    spec:
+      containers:
+        - name: fortnox-worker-container
+          image: "registry.eu-de.bluemix.net/asteria/image-fortnox-worker:1.0.0"
+          imagePullPolicy: Always
+          livenessProbe:
+            httpGet:
+              path: /
+              port: 80
+            initialDelaySeconds: 5
+            periodSeconds: 5
+          env:
+            - name: MONGODB_BINDING
+              valueFrom:
+                secretKeyRef:
+                  name: binding-mongodb-stage
+                  key: binding
+            - name: REDIS_BINDING
+              valueFrom:
+                secretKeyRef:
+                  name: binding-redis-stage
+                  key: binding
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: asteria-worker-fortnox
+  labels:
+    run:  asteria-deployment-fortnox-worker
+spec:
+  type: NodePort
+  selector:
+    run:  asteria-deployment-fortnox-worker
+  ports:
+   - protocol: TCP
+     port: 80
+     nodePort: 30080

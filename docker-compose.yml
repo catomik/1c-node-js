@@ -1,0 +1,28 @@
+version: '2'
+services:
+  common:
+    tty: true
+    extends:
+      file: ../../../asteria-common/docker-compose.yml
+      service: common
+    environment:
+     - dbhost=mongodb
+     - NODE_ENV=development
+  erp_integrations:
+    build:
+      context: .
+      dockerfile: Dockerfile-development
+    environment:
+     - dbhost=mongodb
+     - NODE_ENV=test
+    ports:
+     - "10001:5858"
+     - "7002:7002"
+    volumes:
+     - .:/app
+  redis:
+    image: "redis:3"
+  mongodb:
+    image: "mongo:3.4"
+    ports:
+     - "9999:27017"

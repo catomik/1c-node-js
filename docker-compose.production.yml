@@ -1,0 +1,15 @@
+version: '2'
+services:
+  fortnoxworker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: registry.eu-gb.bluemix.net/asteria/image-fortnox-worker:${PROJECT_VERSION}
+    ports:
+     - "7002:7002"
+    networks:
+      - asteria_default
+
+networks:
+  asteria_default:
+    external: true

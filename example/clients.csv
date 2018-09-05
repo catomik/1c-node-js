@@ -1,0 +1,4 @@
+type,name,orgnum,vatnumber,clientNumber,termsOfPayment,bank,bank account number ,bank clearing number ,bank giro ,plus giro ,bic ,iban ,contact internal name,contact internal email,contact internal phone,contact name,contact email,contact street,contact street 2,contact city,contact zipcode,contact phone,contact country
+customer,Test 1,1234,4321,1,30,Nordea,123456789,6543,78236-23,90823-234,2342234,23423412534,Internal contact,Internal email,Internal phone,person,test@test.se,street,Street 2,city,zipcode,phone,SE
+customer,Test 2,1232345,3213,2,20,Nordea,123456789,6543,78236-23,90823-234,2342234,23423412534,Internal contact,Internal email,Internal phone,person,test@test.se,street,Street 2,city,zipcode,phone,NO
+supplier,TestS 2,12323435,3213,2,20,Nordea,123456789,6543,78236-23,90823-234,2342234,23423412534,Internal contact,Internal email,Internal phone,person,test@test.se,street,Street 2,city,zipcode,phone,NO

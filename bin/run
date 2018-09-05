@@ -1,0 +1,11 @@
+#!/bin/bash
+cd ../common && npm link
+cd ../app && npm link @sixten/asteria-common
+npm install
+
+case "$NODE_ENV" in
+ test) npm run watch:test ;;
+    *) npm run watch ;;
+esac
+
+

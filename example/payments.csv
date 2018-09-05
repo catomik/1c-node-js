@@ -1,0 +1,3 @@
+type,number,invoiceNumber,date,total,tax,currency,reference,message,source
+customerInvoicePayment,1,jkasd868,2017-08-12,1234,123,NOK,123-123,Message / ocr,direct
+supplierInvoicePayment,2,3,2017-08-12,9999,432,SEK,lkhasd,Message / ocr,direct

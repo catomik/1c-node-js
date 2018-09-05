@@ -1,0 +1,9 @@
+version: '2'
+services:
+  fortnoxworker:
+    build:
+      context: .
+      dockerfile: Dockerfile-stage
+    image: registry.eu-de.bluemix.net/asteria/image-fortnox-worker:${PROJECT_VERSION}
+    ports:
+     - "80:80"

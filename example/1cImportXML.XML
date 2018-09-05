@@ -1,0 +1,1038 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<head Date="08.12.2017 16:09:30">
+	<type>XML</type>
+	<content>
+		<TableClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Саймон и Шустер</name>
+				<vatnumber>0777123412</vatnumber>
+				<clientNumber>000000014</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>109028, Москва г, Яузские Ворота пл, 56, </contact_street>
+				<contact_zipcode>109028</contact_zipcode>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Кактус</name>
+				<vatnumber>0777909089</vatnumber>
+				<clientNumber>000000028</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40702810800012345678</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Симонов</name>
+				<vatnumber>7899990001</vatnumber>
+				<clientNumber>000000052</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>Москва г, </contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Белявский-частное лицо</name>
+				<vatnumber>011101011012</vatnumber>
+				<clientNumber>000000002</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40802810900001011111</bank_account_number>
+				<contact_street>190000, Санкт-Петербург г, Добровольцев ул, 1, </contact_street>
+				<contact_zipcode>190000</contact_zipcode>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Павлов</name>
+				<vatnumber>7890000000</vatnumber>
+				<clientNumber>000000051</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>Москва г, </contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Свет (Минск)</name>
+				<orgnum>5556678900</orgnum>
+				<vatnumber>7728627242</vatnumber>
+				<clientNumber>000000035</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>; 117593, Москва г, Москва, Соловьиный проезд, дом № 67</contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Политекст</name>
+				<orgnum>5678999</orgnum>
+				<vatnumber>0123001121</vatnumber>
+				<clientNumber>000000026</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Шилов ПБОЮЛ</name>
+				<vatnumber>9334123401</vatnumber>
+				<clientNumber>000000038</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>6667890000</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Орехов-частное лицо</name>
+				<vatnumber>067710101101</vatnumber>
+				<clientNumber>000000029</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Бытовая техника (Воложин)</name>
+				<vatnumber>1234567890</vatnumber>
+				<clientNumber>000000036</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Конфетпром</name>
+				<vatnumber>7721049904</vatnumber>
+				<clientNumber>000000068</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Фирма "LIGHT"</name>
+				<vatnumber>0012909871</vatnumber>
+				<clientNumber>000000006</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Алхимов А.А.</name>
+				<orgnum>4566666</orgnum>
+				<vatnumber>0461111101</vatnumber>
+				<clientNumber>000000009</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40702810201100000112</bank_account_number>
+				<contact_street>119019, Москва г, Арбатская пл, 1, 2, </contact_street>
+				<contact_zipcode>119019</contact_zipcode>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>ЭКИП ООО</name>
+				<vatnumber>0122909098</vatnumber>
+				<clientNumber>000000007</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "МЕЖДУНАРОДНЫЙ ТОРГПРОМБАНК"</bank>
+				<bank_account_number>40702810200100000657</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Продукты (Филиал)</name>
+				<orgnum>678</orgnum>
+				<vatnumber>7728627243 </vatnumber>
+				<clientNumber>000000039</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>База "Продукты"</name>
+				<vatnumber>1456784324</vatnumber>
+				<clientNumber>000000004</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40702810300111001119</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Вега-транс</name>
+				<vatnumber>7716147884</vatnumber>
+				<clientNumber>000000042</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>; г. Минск</contact_street>
+				<contact_street_2>; г. Минск</contact_street_2>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>База "Поставка комплектующих"</name>
+				<vatnumber>34567888</vatnumber>
+				<clientNumber>000000025</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>; Гомельская обл., г. Мозырь, дом № 11</contact_street>
+				<contact_street_2>; Гомельская обл., г. Мозырь, дом № 11</contact_street_2>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Сириус</name>
+				<vatnumber>0777121211</vatnumber>
+				<clientNumber>000000019</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>База "Электротовары"</name>
+				<vatnumber>1846786487</vatnumber>
+				<clientNumber>000000021</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Магазин 23</name>
+				<vatnumber>5023240664</vatnumber>
+				<clientNumber>000000069</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>МГТС</name>
+				<vatnumber>7710016640</vatnumber>
+				<clientNumber>000000046</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Koenig Holding GmbH</name>
+				<vatnumber>7899999999</vatnumber>
+				<clientNumber>000000043</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Трансагентство г. Иваново</name>
+				<vatnumber>24043059802</vatnumber>
+				<clientNumber>000000075</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Эвихон-II</name>
+				<vatnumber>2345678234</vatnumber>
+				<clientNumber>000000008</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ ОАО "ИМБАНК"</bank>
+				<bank_account_number>40702810100001123401</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Свергуненко</name>
+				<vatnumber>0777123456</vatnumber>
+				<clientNumber>000000016</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Никитаева-частное лицо</name>
+				<vatnumber>111111134567</vatnumber>
+				<clientNumber>000000018</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Kikinda (Сербия)</name>
+				<vatnumber>8889999999</vatnumber>
+				<clientNumber>000000047</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_email>; office@kikinda.by</contact_email>
+				<contact_street>; 954621, г. Минск8, Лукашенко8, дом № 19, корпус 20, квартира 21</contact_street>
+				<contact_street_2>; 954621, г. Минск9, Лукашенко9, дом № 22, корпус 23, квартира 24</contact_street_2>
+				<contact_phone>; +146789123456</contact_phone>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>НТЦ "Нанотроника"</name>
+				<orgnum>56789000</orgnum>
+				<vatnumber>0234567801</vatnumber>
+				<clientNumber>000000015</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Дальстрой</name>
+				<orgnum>55567890</orgnum>
+				<vatnumber>2345126123</vatnumber>
+				<clientNumber>000000011</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>; 220096, г. Минск, ул. РУССИЯНОВА И.Н., дом № 18, оф. 118</contact_street>
+				<contact_street_2>; 220096, г. Минск, ул. РУССИЯНОВА И.Н., дом № 18, оф. 118</contact_street_2>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Гришичкин</name>
+				<vatnumber>7890000</vatnumber>
+				<clientNumber>000000053</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>Москва г, </contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Балашов</name>
+				<vatnumber>000112345612</vatnumber>
+				<clientNumber>000000020</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>База "Инвентарь"</name>
+				<vatnumber>1427474374</vatnumber>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40702810033330333333</bank_account_number>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Твемос</name>
+				<vatnumber>7890000091</vatnumber>
+				<clientNumber>000000050</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>Москва г, </contact_street>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Лабан</name>
+				<vatnumber>0112987654</vatnumber>
+				<clientNumber>000000001</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Сервислог</name>
+				<vatnumber>7705123546</vatnumber>
+				<clientNumber>000000065</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40710812500023654566</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Монолит</name>
+				<orgnum>3456789</orgnum>
+				<vatnumber>0123123401</vatnumber>
+				<clientNumber>000000010</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>197706, Санкт-Петербург г, Сестрорецк г, Андреева ул, 67, </contact_street>
+				<contact_zipcode>197706</contact_zipcode>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Розничный магазин</name>
+				<orgnum>678900000</orgnum>
+				<vatnumber>7728627241</vatnumber>
+				<clientNumber>000000024</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>117292, Москва г, Москва, Нахимовский пр-кт, 56, </contact_street>
+				<contact_zipcode>117292</contact_zipcode>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Divuar Cacao company</name>
+				<vatnumber>4566987777</vatnumber>
+				<clientNumber>000000064</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Бытовая техника</name>
+				<orgnum>567890</orgnum>
+				<vatnumber>1234512345</vatnumber>
+				<clientNumber>000000030</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>; 119049, Москва г, Якиманка Б. ул, дом № 67</contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Торговый дом "Комплексный"</name>
+				<vatnumber>0056123412</vatnumber>
+				<clientNumber>000000037</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ ОАО "ИМБАНК"</bank>
+				<bank_account_number>6789000000000</bank_account_number>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Пластинформ</name>
+				<vatnumber>0123123412</vatnumber>
+				<clientNumber>000000013</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "МЕЖДУНАРОДНЫЙ ТОРГПРОМБАНК"</bank>
+				<bank_account_number>40702810200100000333</bank_account_number>
+				<contact_phone>; 4957890000</contact_phone>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Дом быта</name>
+				<orgnum>456789000</orgnum>
+				<vatnumber>0011001112</vatnumber>
+				<clientNumber>000000031</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Иваночкин</name>
+				<vatnumber>34567899</vatnumber>
+				<clientNumber>000000040</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Магазин "Все для дома"</name>
+				<orgnum>4446789000</orgnum>
+				<vatnumber>0012345555</vatnumber>
+				<clientNumber>000000034</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Таганов Д Н-частное лицо</name>
+				<vatnumber>012312340112</vatnumber>
+				<clientNumber>000000033</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>ИнноТрейд</name>
+				<orgnum>6666667777</orgnum>
+				<vatnumber>0012123456</vatnumber>
+				<clientNumber>000000003</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<bank>АКБ "АВТ-БАНК"</bank>
+				<bank_account_number>40702810622222222222</bank_account_number>
+				<contact_street>; 305010, Курская обл, Курск г, 8 Марта ул, дом № 67</contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Продукты (Основной)</name>
+				<orgnum>66678900</orgnum>
+				<vatnumber>0077111101</vatnumber>
+				<clientNumber>000000027</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Инвема</name>
+				<vatnumber>0001110101</vatnumber>
+				<clientNumber>000000012</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>supplier</type>
+				<name>Мосимущество</name>
+				<vatnumber>7707058720</vatnumber>
+				<clientNumber>000000044</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>Свет (Молодечно)</name>
+				<orgnum>678900000</orgnum>
+				<vatnumber>772862724 </vatnumber>
+				<clientNumber>000000032</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+				<contact_street>; 117525, Москва г, Москва, Чертановская ул, дом № 34</contact_street>
+			</RowClients>
+			<RowClients>
+				<type>customer</type>
+				<name>ИнвестСоюз </name>
+				<clientNumber>000000067</clientNumber>
+				<termsOfPayment>0</termsOfPayment>
+			</RowClients>
+		</TableClients>
+		<TableInvoices>
+			<RowInvoices>
+				<type>customerInvoice</type>
+				<clientNumber>000000011</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>МГ00-000001</invoiceNumber>
+				<serialNumber>МГ00-000001</serialNumber>
+				<sent>2013-06-19</sent>
+				<due>2013-06-19</due>
+				<total>1 500 000</total>
+				<tax>300 000</tax>
+				<currency>BYR</currency>
+				<contact_street>; 220096, г. Минск, ул. РУССИЯНОВА И.Н., дом № 18, оф. 118</contact_street>
+				<contact_street_2>; 220096, г. Минск, ул. РУССИЯНОВА И.Н., дом № 18, оф. 118</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>customerInvoice</type>
+				<clientNumber>000000047</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>МГ00-000001</invoiceNumber>
+				<serialNumber>МГ00-000001</serialNumber>
+				<sent>2017-12-08</sent>
+				<due>2017-12-08</due>
+				<total>0,8</total>
+				<tax>0,16</tax>
+				<currency>EUR</currency>
+				<contact_email>; office@kikinda.by</contact_email>
+				<contact_street>; 954621, г. Минск8, Лукашенко8, дом № 19, корпус 20, квартира 21</contact_street>
+				<contact_street_2>; 954621, г. Минск9, Лукашенко9, дом № 22, корпус 23, квартира 24</contact_street_2>
+				<contact_phone>; +146789123456</contact_phone>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000076</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000001</serialNumber>
+				<sent>2011-12-31</sent>
+				<due>2011-12-31</due>
+				<total>0</total>
+				<tax>200 000</tax>
+				<currency>RUB</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000020</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>17</invoiceNumber>
+				<serialNumber>МГ00-000004</serialNumber>
+				<sent>2014-05-22</sent>
+				<due>2014-05-31</due>
+				<total>1 260 000</total>
+				<tax>210 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000064</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000005</serialNumber>
+				<sent>2014-08-11</sent>
+				<due>2014-08-12</due>
+				<total>3 000</total>
+				<tax>500</tax>
+				<currency>USD</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000020</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>1144</invoiceNumber>
+				<serialNumber>МГ00-000006</serialNumber>
+				<sent>2014-08-02</sent>
+				<due>2014-08-13</due>
+				<total>1 905 840 000</total>
+				<tax>317 640 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>2121</invoiceNumber>
+				<serialNumber>МГ00-000007</serialNumber>
+				<sent>2013-06-01</sent>
+				<due>2013-06-19</due>
+				<total>15 072 000</total>
+				<tax>2 512 000</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000042</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>1</invoiceNumber>
+				<serialNumber>МГ00-000008</serialNumber>
+				<sent>2013-07-01</sent>
+				<due>2013-07-02</due>
+				<total>6 000 000</total>
+				<tax>1 000 000</tax>
+				<currency>USD</currency>
+				<contact_street>; г. Минск</contact_street>
+				<contact_street_2>; г. Минск</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000043</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>113</invoiceNumber>
+				<serialNumber>МГ00-000001</serialNumber>
+				<sent>2014-01-01</sent>
+				<due>2014-02-28</due>
+				<total>28 368</total>
+				<tax>4 728</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000004</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>32</invoiceNumber>
+				<serialNumber>МГ00-000002</serialNumber>
+				<sent>2012-02-05</sent>
+				<due>2012-02-05</due>
+				<total>6 726</total>
+				<tax>0</tax>
+				<currency>RUB</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>14</invoiceNumber>
+				<serialNumber>МГ00-000012</serialNumber>
+				<sent>2013-03-01</sent>
+				<due>2013-03-01</due>
+				<total>62 251 130</total>
+				<tax>10 375 188</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>15</invoiceNumber>
+				<serialNumber>МГ00-000013</serialNumber>
+				<sent>2013-06-03</sent>
+				<due>2013-06-03</due>
+				<total>62 251 130</total>
+				<tax>10 375 188</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>12</invoiceNumber>
+				<serialNumber>МГ00-000014</serialNumber>
+				<sent>2013-06-03</sent>
+				<due>2013-06-03</due>
+				<total>293 994</total>
+				<tax>48 999</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000015</serialNumber>
+				<sent>2013-06-09</sent>
+				<due>2013-06-19</due>
+				<total>2 400</total>
+				<tax>400</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000028</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>2</invoiceNumber>
+				<serialNumber>МГ00-000016</serialNumber>
+				<sent>2013-07-05</sent>
+				<due>2013-07-05</due>
+				<total>9 600 000</total>
+				<tax>1 600 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000043</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>10</invoiceNumber>
+				<serialNumber>МГ00-000017</serialNumber>
+				<sent>2013-07-10</sent>
+				<due>2013-07-16</due>
+				<total>174 961 886</total>
+				<tax>29 160 314</tax>
+				<currency>EUR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>13</invoiceNumber>
+				<serialNumber>МГ00-000018</serialNumber>
+				<sent>2013-09-18</sent>
+				<due>2013-09-19</due>
+				<total>36 428</total>
+				<tax>3 312</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000043</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>14</invoiceNumber>
+				<serialNumber>МГ00-000019</serialNumber>
+				<sent>2013-10-01</sent>
+				<due>2013-10-01</due>
+				<total>2 400 000</total>
+				<tax>400 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>16</invoiceNumber>
+				<serialNumber>МГ00-000020</serialNumber>
+				<sent>2013-11-11</sent>
+				<due>2013-11-11</due>
+				<total>39 739</total>
+				<tax>6 623</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000020</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000002</serialNumber>
+				<sent>2014-01-01</sent>
+				<due>2014-06-18</due>
+				<total>54 000 000</total>
+				<tax>9 000 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000004</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>264</invoiceNumber>
+				<serialNumber>МГН00000001</serialNumber>
+				<sent>2012-02-10</sent>
+				<due>2012-02-10</due>
+				<total>115 350</total>
+				<tax>0</tax>
+				<currency>RUB</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>112113</invoiceNumber>
+				<serialNumber>МГ00-000002</serialNumber>
+				<sent>2013-06-16</sent>
+				<due>2013-06-17</due>
+				<total>2 302 560</total>
+				<tax>383 760</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000003</serialNumber>
+				<sent>2013-06-16</sent>
+				<due>2013-06-17</due>
+				<total>165 461 760</total>
+				<tax>27 576 960</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>112</invoiceNumber>
+				<serialNumber>МГ00-000004</serialNumber>
+				<sent>2013-06-15</sent>
+				<due>2013-06-17</due>
+				<total>1 200</total>
+				<tax>200</tax>
+				<currency>USD</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000021</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>18</invoiceNumber>
+				<serialNumber>МГ00-000005</serialNumber>
+				<sent>2013-06-01</sent>
+				<due>2013-06-14</due>
+				<total>28 800 000</total>
+				<tax>4 800 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000007</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11/9</invoiceNumber>
+				<serialNumber>МГ00-000006</serialNumber>
+				<sent>2013-06-01</sent>
+				<due>2013-06-17</due>
+				<total>106 800 000</total>
+				<tax>17 800 000</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>00-000005</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>17</invoiceNumber>
+				<serialNumber>МГ00-000021</serialNumber>
+				<sent>2013-12-31</sent>
+				<due>2013-12-31</due>
+				<total>0</total>
+				<tax>0</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000022</serialNumber>
+				<sent>2013-06-16</sent>
+				<due>2013-06-17</due>
+				<total>226 800</total>
+				<tax>37 800</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000004</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>11</invoiceNumber>
+				<serialNumber>МГ00-000001</serialNumber>
+				<sent>2013-06-01</sent>
+				<due>2013-06-14</due>
+				<total>20 000</total>
+				<tax>3 334</tax>
+				<currency>RUB</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000004</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>14</invoiceNumber>
+				<serialNumber>КФ00-000001</serialNumber>
+				<sent>2013-08-14</sent>
+				<due>2013-08-14</due>
+				<total>307 200</total>
+				<tax>51 200</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000023</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>16</invoiceNumber>
+				<serialNumber>МГ00-000007</serialNumber>
+				<sent>2014-09-08</sent>
+				<due>2014-09-09</due>
+				<total>30 000 000</total>
+				<tax>5 000 000</tax>
+				<currency>BYR</currency>
+				<contact_internal_name>Петр</contact_internal_name>
+				<contact_internal_email>; ivanov@email.com</contact_internal_email>
+				<contact_internal_phone>; 098322223322; 4521; 654654654</contact_internal_phone>
+				<contact_name>Иванов Петр Сергеевич</contact_name>
+				<contact_street>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street>
+				<contact_street_2>; 220125, г. Минск, ул. ШАФАРНЯНСКАЯ, дом № 11, оф. 188</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000025</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>1</invoiceNumber>
+				<serialNumber>МГ00-000011</serialNumber>
+				<sent>2013-06-20</sent>
+				<due>2013-06-20</due>
+				<total>20 100 000</total>
+				<tax>3 350 000</tax>
+				<currency>BYR</currency>
+				<contact_street>; Гомельская обл., г. Мозырь, дом № 11</contact_street>
+				<contact_street_2>; Гомельская обл., г. Мозырь, дом № 11</contact_street_2>
+			</RowInvoices>
+			<RowInvoices>
+				<type>supplierInvoice</type>
+				<clientNumber>000000070</clientNumber>
+				<termsOfPayment>30</termsOfPayment>
+				<invoiceType>invoice</invoiceType>
+				<invoiceNumber>15111</invoiceNumber>
+				<serialNumber>МГ00-000008</serialNumber>
+				<sent>2014-08-04</sent>
+				<due>2014-08-04</due>
+				<total>62 400</total>
+				<tax>10 400</tax>
+				<currency>BYR</currency>
+			</RowInvoices>
+		</TableInvoices>
+		<TablePayments>
+			<RowPayments>
+				<type>customerInvoicePayment</type>
+				<total>100 000</total>
+				<tax>16 667</tax>
+				<currency>BYR</currency>
+			</RowPayments>
+			<RowPayments>
+				<type>customerInvoicePayment</type>
+				<invoiceNumber>МГ00-000001</invoiceNumber>
+				<total>10 000</total>
+				<tax>1 666,67</tax>
+				<currency>BYR</currency>
+				<reference>Тест
+</reference>
+			</RowPayments>
+			<RowPayments>
+				<type>supplierInvoicePayment</type>
+				<number>65465456</number>
+				<date>2017-12-19</date>
+				<total>147 000</total>
+				<tax>24 500</tax>
+				<currency>BYR</currency>
+				<reference>Оплата по договору Договор 11/2012 
+Сумма 147000-00
+В т.ч. НДС(20%) 24500-00</reference>
+				<message>Комментарий</message>
+			</RowPayments>
+		</TablePayments>
+		<TableExpenses>
+			<RowExpenses>
+				<type>expenses.tax </type>
+				<reference>МГ00-000003</reference>
+				<created>2014-07-04</created>
+				<due>2014-07-04</due>
+				<total>4 750 000</total>
+				<tax>4 750 000</tax>
+				<currency>BYR</currency>
+				<description>Test Tax</description>
+			</RowExpenses>
+			<RowExpenses>
+				<type>expenses.tax </type>
+				<reference>МГ00-000001</reference>
+				<created>2014-03-31</created>
+				<due>2014-03-31</due>
+				<total>39 452 092</total>
+				<tax>39 452 092</tax>
+				<currency>BYR</currency>
+				<description>Test Tax</description>
+			</RowExpenses>
+			<RowExpenses>
+				<type>expenses.tax </type>
+				<reference>МГ00-000001</reference>
+				<created>2017-12-08</created>
+				<due>2017-12-08</due>
+				<paid>2017-12-11</paid>
+				<total>7 000</total>
+				<tax>7 000</tax>
+				<currency>BYR</currency>
+				<description>Test Tax</description>
+			</RowExpenses>
+			<RowExpenses>
+				<type>expenses.salary </type>
+				<reference>МГ00-000002</reference>
+				<created>2017-12-08</created>
+				<due>2017-12-08</due>
+				<paid>2017-12-28</paid>
+				<total>333 920 440</total>
+				<currency>BYR</currency>
+				<description>Test Salary</description>
+			</RowExpenses>
+			<RowExpenses>
+				<type>expenses.salary </type>
+				<reference>МГ00-000003</reference>
+				<created>2017-12-08</created>
+				<due>2017-12-08</due>
+				<total>5 000</total>
+				<currency>BYR</currency>
+				<description>Test Salary</description>
+			</RowExpenses>
+		</TableExpenses>
+	</content>
+</head>

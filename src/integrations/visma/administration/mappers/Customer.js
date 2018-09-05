@@ -1,0 +1,30 @@
+const Common = require('@sixten/asteria-common');
+const ClientMapper = require('./Client.js');
+
+module.exports = Common.Utils.Mapper([
+	{ src: '', dest: 'active', default: true },
+	{ src: 'NAMN', dest: 'name', default: 'Unknown' },
+	{ src: 'ORGNR', dest: 'info.orgNumber' },
+	{ src: 'VATNumber', dest: 'info.vatNumber' },
+	{ src: 'BETVILLK', dest: 'info.termsOfPayment', default: '30' },
+	{ src: 'KUNDNR', dest: 'meta.customerNumber' },
+	{ src: '', dest: 'contact.internal.name' },
+	{ src: '', dest: 'contact.internal.phone' },
+	{ src: 'REF', dest: 'contact.general.name' },
+	{ src: 'EPOST', dest: 'contact.general.email' },
+	{ src: 'POSTADR', dest: 'contact.general.street' },
+	{ src: 'POSTADR2', dest: 'contact.general.street2' },
+	{ src: 'ORT', dest: 'contact.general.city' },
+	{ src: 'POSTNR', dest: 'contact.general.zipcode' },
+	{ src: 'TEL', dest: 'contact.general.phone' },
+	{ src: 'LAND', dest: 'contact.general.country' },
+	{ src: '', dest: 'contact.shipping.name' },
+	{ src: '', dest: 'contact.shipping.email' },
+	{ src: 'LEVADR', dest: 'contact.shipping.street' },
+	{ src: 'LEVADR2', dest: 'contact.shipping.street2' },
+	{ src: 'LEVORT', dest: 'contact.shipping.city' },
+	{ src: 'LEVPOSTNR', dest: 'contact.shipping.zipcode' },
+	{ src: '', dest: 'contact.shipping.phone' },
+	{ src: 'LEVLAND', dest: 'contact.shipping.country' },
+	{ src: '', dest: 'contact.billing.email' },
+]);

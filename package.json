@@ -1,0 +1,43 @@
+{
+  "name": "asteria-erp",
+  "version": "0.0.1",
+  "description": "Asteria ERP Integrations",
+  "main": "src/Main.js",
+  "private": true,
+  "scripts": {
+    "start": "node src/Main.js",
+    "lint:js": "eslint src/**/*.js",
+    "watch:test": "nodemon --debug=0.0.0.0:5858 --watch ./test --watch ./src --exec 'istanbul cover _mocha './test/**/*.test.js' -- -R spec || true' --delay 1",
+    "watch": "nodemon --watch ./src --watch ../common/src src/Main.js",
+    "test": "mocha test"
+  },
+  "author": "AsteriaInc",
+  "license": "ISC",
+  "dependencies": {
+    "@sixten/asteria-common": "0.1.2",
+    "ioredis": "latest",
+    "kue": "latest",
+    "lodash": "latest",
+    "moment": "latest",
+    "moment-timezone": "latest",
+    "request": "latest",
+    "xlsx": "latest",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "chai": "latest",
+    "chai-date-string": "latest",
+    "chai-http": "latest",
+    "del": "latest",
+    "eslint": "latest",
+    "eslint-config-airbnb": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "latest",
+    "mocha": "latest",
+    "nodemon": "latest",
+    "sinon": "latest",
+    "sinon-chai": "latest",
+    "istanbul": "latest"
+  }
+}
