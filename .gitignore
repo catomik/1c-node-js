@@ -1,0 +1,9 @@
+.DS_Store
+.tmp
+node_modules
+logs
+var
+*.log
+coverage
+.idea/
+config/env/local.js

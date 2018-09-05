@@ -1,0 +1,39 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "import"
+    ],
+    "env": {
+        "browser": false,
+        "node": true,
+        "mongo": true,
+		"mocha": true
+    },
+    "rules": {
+	    "indent": ["error", "tab", {
+	      "SwitchCase": 1,
+	      "VariableDeclarator": 1,
+	      "outerIIFEBody": 1,
+	      "FunctionDeclaration": {
+	        "parameters": 1,
+	        "body": 1
+	      },
+	      "FunctionExpression": {
+	        "parameters": 1,
+	        "body": 1
+	      }
+		}],
+		"jsx-a11y/href-no-hash": "off",
+		"jsx-a11y/anchor-is-valid": ["warn", { "aspects": ["invalidHref"] }],
+	    "no-tabs": "off",
+		"class-methods-use-this": "off",
+	    "no-underscore-dangle": [2, { "allow": ["_id", "_bsontype"] }],
+		"comma-dangle": ["error", {
+			"arrays": "always-multiline",
+			"objects": "always-multiline",
+			"imports": "always-multiline",
+			"exports": "always-multiline",
+			"functions": "ignore"
+		}]
+	}
+}
